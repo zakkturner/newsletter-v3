@@ -1,0 +1,15 @@
+@import "Fonts";
+
+.SignUp {
+  width: 100%;
+  height: 100vh;
+  background-color: #120f23;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  &__container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+}
